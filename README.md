@@ -53,4 +53,4 @@ python3 main.py --mode='inference'
 ```
 
 ## Report
-You can find the report on this task [here]([https://docs.google.com/document/d/1LZ24Mde_-Hn6CfufTX0UKTsfr6yJso1oqgCkqLynhlQ/edit?usp=sharing](https://docs.google.com/document/d/1FeB_oiE4hf7aoJ9GxDk7AvRnm9NA_G4R/edit?usp=sharing&ouid=105452570762605421625&rtpof=true&sd=true))
+You can find the report on this task [here](https://docs.google.com/document/d/1FeB_oiE4hf7aoJ9GxDk7AvRnm9NA_G4R/edit?usp=sharing&ouid=105452570762605421625&rtpof=true&sd=true)
