@@ -1,4 +1,4 @@
-﻿<a name="_heading=h.gjdgxs"></a>Report
+# ﻿<a name="_heading=h.gjdgxs"></a>Report
 # <a name="_heading=h.30j0zll"></a>Goal
 In this task, my goal is to provide a solution that contains a data processing pipeline that processes input image with the graph and handwritten text and returns a denoised grayscaled image. The goal on the level above is to get familiar with the Pytorch framework and deep learning pipeline.
 
